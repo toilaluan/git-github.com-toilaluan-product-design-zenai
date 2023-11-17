@@ -1,0 +1,6 @@
+*.png
+outputs/
+.ipynb_checkpoints
+.ruff_cache
+models
+*.pyc
